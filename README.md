@@ -5,7 +5,7 @@
 - 👀 I'm interested in Data Science and Deep Learning
 - 🌱 I’m currently learning Artificial Intellegence
 - ✨ I'm part of the Student Ambassador PT Cicil Solusi Mitra Teknologi
-## My Github Stats
+### My Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=prissyyy alt=prissyyy /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=prissyyy&show_icons=true&include_all_commits=true)](https://github.com/prissyyy/github-readme-stats)
