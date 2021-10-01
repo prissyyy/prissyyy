@@ -4,6 +4,7 @@
 - 📊 I'm a Statistics Student in Muhammadiyah Semarang University
 - 👀 I'm interested in Data Science and Deep Learning
 - 🌱 I’m currently learning Artificial Intellegence</p>
+- ✨ I'm part of the Student Ambassador PT Cicil Solusi Mitra Teknologi
 ## My Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=prissyyy alt=prissyyy /> </p>
 
