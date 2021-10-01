@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-prissynusaiba-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prissy-nusaiba/)](https://www.linkedin.com/in/prissynusaiba/) [![Github Badge](https://img.shields.io/badge/-prissyyy-grey?style=flat&logo=github&logoColor=white&link=https://github.com/prissyyy/)](https://www.github.com/prissyyy/) <p align='left'>
 - 📊 I'm a Statistics Student in Muhammadiyah Semarang University
 - 👀 I'm interested in Data Science and Deep Learning
-- 🌱 I’m currently learning Artificial Intellegence
+- 🌱 I’m currently learning Artificial Intellegence in Orbit Future Academy 
 - ✨ I'm part of the Student Ambassador PT Cicil Solusi Mitra Teknologi
 ### My Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=prissyyy alt=prissyyy /> </p>
